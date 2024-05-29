@@ -1,0 +1,215 @@
+
+/*Content*/
+
+/*Homepage*/
+
+
+.boxContainer {
+    padding-top: 30px;
+  color:#5f4e12;
+    text-align: center;
+    font-family: "Playfair Display" , serif;
+    font-weight: medium;
+    font-style: italic;
+   /* font-size: 80px;*/
+   font-size: 5vw;
+  
+}
+
+#weddingDate {
+text-decoration: underline;
+}
+
+#countdownTimer img{
+   display: block;
+  max-width: 100%; 
+    border: 0;
+    text-align: center;
+   margin: 0 auto;
+   height:auto;
+}
+
+/*About Us*/
+
+.description {
+    color:black;
+    text-align: center;
+    font-weight:light;
+    font-family: "Playfair Display" , serif;
+   /* font-size: large; */
+    font-size: 2vw;
+    max-width:100%;
+    margin: 0 auto;
+    padding-left:10px;  
+}
+/*
+.cards {
+    display:flex;
+    flex-wrap:nowrap;
+    padding-left: 400px;
+}
+*/
+#aboutUsTitle {
+   color: #5f4e12;
+    text-decoration: underline;
+    font-family: "Playfair Display" , serif;
+    font-weight: medium;
+    font-style: italic;
+    /*font-size: 100px;*/
+    font-size: 6vw;
+}
+
+/*Contacts*/
+
+#contactTitle {
+    color: #5f4e12;
+    text-decoration: underline;
+    font-family: "Playfair Display" , serif;
+    font-weight: medium;
+    font-style: italic;
+   /* font-size: 100px; */
+    font-size: 6vw;
+}
+
+.himAndHer {
+    font-family: "Playfair Display" , serif;
+    color: #5d0034;
+    font-weight: 543;
+    text-decoration: underline;
+    font-style: italic;
+   /* font-size: 44px; */
+    font-size: 3vw;
+    text-align: center;
+}
+
+.ceremony {
+    font-family: "Playfair Display" , serif;
+    color:	#082351;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+    font-size: 2vw;
+    /*font-size: 30px;*/
+}
+
+.reception {
+    font-family: "Playfair Display" , serif;
+    color:	#bf9b30;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+   /* font-size: 30px; */
+   font-size: 2vw;
+}
+
+.contactsCaption {
+    color:black;
+    font-weight:light;
+    font-family: "Playfair Display" , serif;
+    text-align: center;
+   /* font-size: 22px; */
+    font-size: 1.5vw
+}
+
+/*Playlist*/
+
+#playlistTitle {
+    color: #5f4e12;
+    text-decoration: underline;
+    font-family: "Playfair Display" , serif;
+    font-weight: medium;
+    font-style: italic;
+   /* font-size: 100px; */
+    font-size: 6vw;
+}
+
+.iframeContainer iframe {
+max-width: 100%;
+margin: 0 auto;
+
+}
+
+#submit {
+    font-family: "Playfair Display" , serif;
+    margin-bottom: 20px;
+}
+
+.caption {
+    color:black;
+    font-weight:light;
+    font-family: "Playfair Display" , serif;
+  /*  font-size: large; */
+  font-size: 1.5em;
+    text-align:center;
+}
+
+span {
+    color:#5f4e12;
+    font-weight: bold;
+    font-family: "Playfair Display" , serif;
+ /*   font-size: large; */
+ font-size: 1.5em;
+}
+
+.listFont {
+    color:black;
+    font-family: "Playfair Display" , serif;
+    /*font-size: large;*/
+    font-size: 1.5em;
+    font-weight: light;
+}
+
+.requestTitle {
+    color:#5f4e12;
+    font-weight: bold;
+    font-family: "Playfair Display" , serif;
+   /* font-size: large; */
+   font-size: 2.1em; 
+}
+
+#request label{
+margin: 0 auto;
+width: auto;
+}
+
+/* Form */
+#guestbookTitle {
+    color: #5f4e12;
+    text-decoration: underline;
+    font-family: "Playfair Display" , serif;
+    font-weight: medium;
+    font-style: italic;
+    font-size: 6vw;
+  /*  font-size: 100px; */
+}
+
+.formContainer {
+    font-family: "Playfair Display" , serif;
+    /*max-width: 500px;*/
+    margin: 0 auto;
+    max-width: 90vw;
+}
+
+.formContent {
+    border-color: #5f4e12;
+    border-width: 5px;
+    border-style: solid;
+   border-radius: 30px; 
+    background-color: #BFBFBF;
+   /* padding: 20px 20px; */
+   padding: 5vw;
+}
+
+input {
+    margin-left: 5px;
+}
+
+.nextButton , .previousButton , .sectionOnePreviousButton , .submitButtonSectionFour {
+   margin-left: 5px;
+}
+
+.sectionTwo , button {
+    margin-left: 5px;
+}
